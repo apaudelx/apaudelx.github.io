@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: left; width: 500px; margin: auto;">
+
 <h1>About Me</h1>
 <br>I am a computer enthusiast and am currently working on building my skills in data structures and algorithms. 
 
