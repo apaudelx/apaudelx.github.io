@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: left; max-width: 600px; width: 100%; margin: auto;">
+<div style="text-align: justify; max-width: 600px; width: 100%; margin: auto;">
 <br>
 <h1>About Me</h1>
 I am a computer enthusiast and am currently working on building my skills in data structures and algorithms.<br>
