@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: left; max-width: 500px; width: 100%; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="text-align: left; max-width: 500px; width: 100%; margin: auto; padding: 100px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+
 <h1>About Me</h1>
 
 
