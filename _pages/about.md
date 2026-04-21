@@ -10,9 +10,11 @@ redirect_from:
 <div style="text-align: left; max-width: 800px; width: 100%; margin: auto;">
   <h1 style="color: #000000;">About Me</h1>
   
-  <p>I am a computer science enthusiast, currently focused on machine learning and upskilling in data structures and algorithms. I will begin my Master's in Computer Science at Louisiana State University, Baton Rouge, LA in Spring 2025, concentrating in machine learning. I am interested in exploring techniques to overcome current limitations and enhance the generalization capabilities of AI models, with applications in autonomous robotics and medical imaging.</p>
-  
-  <p>I previously worked at Orbbec R&D as a software engineer. At Orbbec, I focused on deploying image processing algorithms, testing and documenting the Orbbec SDK, and building computer vision and VR prototypes. I received my bachelor's degree from Mississippi State University in May 2022. During my senior year, I worked as an undergraduate research assistant, focusing on SRS systems for 4G and 5G networks. My work involved using srsRAN and ZMQ to test, optimize, and enhance network performance.</p>
+  <p>Hi there 👋 I am Ashim, a Computer Science graduate student at Louisiana State University (M.S., expected Dec 2026) who loves building AI systems that are both practical and impactful. I work across machine learning and applied LLMs, and I am most excited when research ideas evolve into tools that solve real problems.</p>
 
-  <p>I am actively seeking internship opportunities for Summer 2025. Please feel free to connect if you are hiring.</p>
+  <p>At Louisiana State University, I work in a computational research group, where I conduct molecular dynamics simulations of polymer and polymer-drug systems using NAMD and GROMACS on high-performance computing (HPC) clusters. My work involves developing graph neural network (GNN) models to predict molecular properties and designing data-driven workflows for scientific discovery. Recently, I applied graph-based representations to predict drug-polymer encapsulation and developed a pipeline to convert raw scientific text into structured data—a contribution we recently submitted for publication.</p>
+
+  <p>Prior to graduate school, I was a Software Engineer at Orbbec, where I collaborated with the R&D team to build high-performance prototypes. My responsibilities included developing real-time RGB-D vision pipelines in C++, implementing computer vision features using OpenCV, and leading LLM-powered product integrations. I earned my B.S. in Computer Science from Mississippi State University, where I also conducted research on LTE systems using srsRAN and USRP-based SDR testbeds. I am currently seeking roles in machine learning, computer vision, and applied AI where I can contribute to high-impact projects and continue to grow technically.</p>
+
+  <p>If you are hiring or working on interesting AI problems, I would love to connect. 🙂</p>
 </div>
